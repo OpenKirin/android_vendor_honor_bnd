@@ -1,1 +1,1 @@
-# android_vendor_honor_bnd
+# android_vendor_honor_bond
